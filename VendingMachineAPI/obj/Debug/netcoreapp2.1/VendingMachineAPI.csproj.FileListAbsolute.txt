@@ -1,0 +1,9 @@
+C:\Users\NabeelRehman\Documents\Visual Studio 2017\Practice\VendingMachineKata\VendingMachineAPI\bin\Debug\netcoreapp2.1\VendingMachineAPI.deps.json
+C:\Users\NabeelRehman\Documents\Visual Studio 2017\Practice\VendingMachineKata\VendingMachineAPI\bin\Debug\netcoreapp2.1\VendingMachineAPI.dll
+C:\Users\NabeelRehman\Documents\Visual Studio 2017\Practice\VendingMachineKata\VendingMachineAPI\bin\Debug\netcoreapp2.1\VendingMachineAPI.pdb
+C:\Users\NabeelRehman\Documents\Visual Studio 2017\Practice\VendingMachineKata\VendingMachineAPI\obj\Debug\netcoreapp2.1\VendingMachineAPI.csproj.CoreCompileInputs.cache
+C:\Users\NabeelRehman\Documents\Visual Studio 2017\Practice\VendingMachineKata\VendingMachineAPI\obj\Debug\netcoreapp2.1\VendingMachineAPI.AssemblyInfoInputs.cache
+C:\Users\NabeelRehman\Documents\Visual Studio 2017\Practice\VendingMachineKata\VendingMachineAPI\obj\Debug\netcoreapp2.1\VendingMachineAPI.AssemblyInfo.cs
+C:\Users\NabeelRehman\Documents\Visual Studio 2017\Practice\VendingMachineKata\VendingMachineAPI\obj\Debug\netcoreapp2.1\VendingMachineAPI.dll
+C:\Users\NabeelRehman\Documents\Visual Studio 2017\Practice\VendingMachineKata\VendingMachineAPI\obj\Debug\netcoreapp2.1\VendingMachineAPI.pdb
+C:\Users\NabeelRehman\Documents\Visual Studio 2017\Practice\VendingMachineKata\VendingMachineAPI\obj\Debug\netcoreapp2.1\VendingMachineAPI.csprojAssemblyReference.cache
