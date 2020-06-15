@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKata\\VendingMachineAPI\\VendingMachineAPI.csproj",
+      "projectUniqueName": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKataGitHub\\VendingMachine\\VendingMachine\\VendingMachineAPI\\VendingMachineAPI.csproj",
       "projectName": "VendingMachineAPI",
-      "projectPath": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKata\\VendingMachineAPI\\VendingMachineAPI.csproj",
+      "projectPath": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKataGitHub\\VendingMachine\\VendingMachine\\VendingMachineAPI\\VendingMachineAPI.csproj",
       "packagesPath": "C:\\Users\\NabeelRehman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKata\\VendingMachineAPI\\obj\\",
+      "outputPath": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKataGitHub\\VendingMachine\\VendingMachine\\VendingMachineAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

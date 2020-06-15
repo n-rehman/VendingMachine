@@ -5850,11 +5850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKata\\VendingMachineKata\\VendingMachineKata.csproj",
+      "projectUniqueName": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKataGitHub\\VendingMachine\\VendingMachine\\VendingMachineKata\\VendingMachineKata.csproj",
       "projectName": "VendingMachineKata",
-      "projectPath": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKata\\VendingMachineKata\\VendingMachineKata.csproj",
+      "projectPath": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKataGitHub\\VendingMachine\\VendingMachine\\VendingMachineKata\\VendingMachineKata.csproj",
       "packagesPath": "C:\\Users\\NabeelRehman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKata\\VendingMachineKata\\obj\\",
+      "outputPath": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKataGitHub\\VendingMachine\\VendingMachine\\VendingMachineKata\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5874,8 +5874,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKata\\VendingMachineAPI\\VendingMachineAPI.csproj": {
-              "projectPath": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKata\\VendingMachineAPI\\VendingMachineAPI.csproj"
+            "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKataGitHub\\VendingMachine\\VendingMachine\\VendingMachineAPI\\VendingMachineAPI.csproj": {
+              "projectPath": "C:\\Users\\NabeelRehman\\Documents\\Visual Studio 2017\\Practice\\VendingMachineKataGitHub\\VendingMachine\\VendingMachine\\VendingMachineAPI\\VendingMachineAPI.csproj"
             }
           }
         }
